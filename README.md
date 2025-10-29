@@ -91,5 +91,5 @@ Su diseño modular facilita futuras mejoras, como:
 ---
 
 <h2> 👨‍💻 Autor <h2>
-Proyecto desarrollado por **Samuel López** como práctica universitaria de programación y lógica orientada a objetos con **Java + Spring Boot**.
+Proyecto desarrollado por Samuel López como práctica universitaria de programación y lógica orientada a objetos con Java + Spring Boot.
 
