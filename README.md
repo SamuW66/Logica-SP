@@ -97,11 +97,12 @@ Proyecto desarrollado por Samuel López como práctica universitaria de programa
 
 <h1>🧩 Thunder Client</h1>
 
-<img width="1919" height="1079" alt="C 1" src="https://github.com/user-attachments/assets/ea19f2b3-87d6-42e6-b1b3-3267e9986c52" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea19f2b3-87d6-42e6-b1b3-3267e9986c52" alt="C1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/598924d9-0b61-4412-9899-98847e4b4bf9" alt="C2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ad13db3e-39f9-419b-a541-db37aa1a21f1" alt="C3" width="400"/>
+</p>
 
-<img width="1919" height="1079" alt="C 2" src="https://github.com/user-attachments/assets/598924d9-0b61-4412-9899-98847ae4bdf9" />
-
-<img width="1919" height="1079" alt="C 3" src="https://github.com/user-attachments/assets/ad13db3e-39f9-419b-a541-db37aa1a21f1" />
 
 
 
