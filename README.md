@@ -103,11 +103,6 @@ Proyecto desarrollado por Samuel López como práctica universitaria de programa
 
 <img width="1919" height="1079" alt="C 3" src="https://github.com/user-attachments/assets/ad13db3e-39f9-419b-a541-db37aa1a21f1" />
 
-<p align="center">
-  <img width="300" alt="C1" src="URL1" />
-  <img width="300" alt="C2" src="URL2" />
-  <img width="300" alt="C3" src="URL3" />
-</p>
 
 
 
