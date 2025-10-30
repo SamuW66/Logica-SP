@@ -177,6 +177,30 @@ Cada una de las **12 pruebas** corresponde a un método `GET` que valida la corr
 
 ---
 
+🧩 Postman
+
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/cedaef78-fd5b-4442-ab1d-9c46dcae9876" />
+
+<img width="1919" height="1079" alt="2" src="https://github.com/user-attachments/assets/915176fc-65b5-4d21-8f21-9f1652bff56e" />
+
+<img width="1919" height="1075" alt="3" src="https://github.com/user-attachments/assets/dfcc9752-c26c-4aec-8132-0ff5c8e112d1" />
+
+<img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/333e7cdd-41bf-48a5-a430-77574dc0372a" />
+
+<img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/7ad11e43-3762-41a2-8a71-2726e61cb8be" />
+
+<img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/b36fccad-35d3-4357-909c-89e056ab4121" />
+
+<img width="1919" height="1079" alt="7" src="https://github.com/user-attachments/assets/fddb2dda-ae70-4384-9c3d-17a5daab0d11" />
+
+<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/d8ccd520-1a2e-453f-b76c-c53f6cbdd538" />
+
+<img width="1919" height="1068" alt="10" src="https://github.com/user-attachments/assets/c8e3b9d6-9910-4ebc-949a-c75bb8079141" />
+
+<img width="1919" height="1079" alt="9" src="https://github.com/user-attachments/assets/eb4f94d5-1ca1-4c7e-b32b-c8455c8e1e0e" />
+
+---
+
 <h2> 🧑‍💻 Autor <h2>
 
 **Desarrollado por:** *Samuel López*  
