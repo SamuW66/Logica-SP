@@ -112,22 +112,18 @@ En este proyecto se utilizó para **validar el correcto funcionamiento de las op
 
 <h2> 🧪 Pruebas en Swagger UI <h2>
 
-**Swagger UI** es una herramienta integrada que permite visualizar y probar de manera interactiva todos los endpoints de la API REST.  
-Gracias a esta interfaz, se pueden ejecutar las operaciones directamente desde el navegador y observar las respuestas del servidor sin necesidad de clientes externos.
+**Swagger UI** se usó para verificar todos los endpoints definidos en el `BankController`.  
+Cada una de las **12 pruebas** corresponde a un método `GET` que valida la correcta comunicación entre las capas del sistema y el formato de los datos devueltos.
 
-### 🚀 Pasos para las pruebas
+### 🚀 Pasos para ejecutar las pruebas
 
-1. Ejecuta el proyecto desde tu entorno (por ejemplo, IntelliJ o VS Code).  
+1. Inicia el proyecto desde tu entorno (VS Code, IntelliJ, etc.).  
 2. Abre tu navegador y entra a:  
    👉 `http://localhost:8080/swagger-ui/index.html`  
-3. Explora las distintas rutas disponibles:  
-   - `/api/customers`  
-   - `/api/accounts`  
-   - `/api/transactions`  
-4. Selecciona una operación y haz clic en **“Try it out”**.  
-5. Ingresa los parámetros o el cuerpo en formato JSON.  
-6. Presiona **Execute** y observa la respuesta y el código de estado.
-
+3. Explora los endpoints de la API REST del sistema bancario.  
+4. Haz clic en **Try it out**, ejecuta las peticiones y verifica las respuestas.  
+5. Comprueba que los datos se muestren correctamente y los códigos HTTP sean los esperados.
+6. 
 ---
 
 <p align="center">
