@@ -75,7 +75,7 @@ Aunque las pruebas actuales son básicas, representan un punto de partida para a
 
 ---
 
-<h2>⚡ Thunder Client <h2>
+<h2> ⚡ Thunder Client <h2>
 
 **Thunder Client** es una extensión integrada en **Visual Studio Code** que facilita la **prueba de endpoints de una API REST** sin necesidad de usar herramientas externas como Postman.  
 En este proyecto se utilizó para **validar el correcto funcionamiento de las operaciones bancarias**, como la creación de clientes, manejo de cuentas, depósitos y retiros.
@@ -90,7 +90,7 @@ En este proyecto se utilizó para **validar el correcto funcionamiento de las op
    - `PUT` → Actualizar datos ya registrados.  
    - `DELETE` → Eliminar registros.  
 4. En la barra de dirección, escribe la URL del endpoint.  
-   Ejemplo: http://localhost:8080/api/customers
+   Ejemplo: http://localhost:8080/api/customers  
 5. Si el endpoint requiere datos, agrégalos en el cuerpo de la solicitud en formato **JSON**.  
 6. Finalmente, presiona **Send** y observa la respuesta del servidor.
 
@@ -102,8 +102,47 @@ En este proyecto se utilizó para **validar el correcto funcionamiento de las op
 <img width="1919" height="1079" alt="C 2" src="https://github.com/user-attachments/assets/9d619b92-c06b-4a05-bf67-b9370d6ae773" />
 
 <img width="1919" height="1079" alt="C 3" src="https://github.com/user-attachments/assets/0b11bc51-7d0e-4818-8046-bfa32010c6f2" />
-
 </p>
+
+---
+
+<h2> 🧪 Pruebas en Swagger UI <h2>
+
+**Swagger UI** es una herramienta integrada que permite visualizar y probar de manera interactiva todos los endpoints de la API REST.  
+Gracias a esta interfaz, se pueden ejecutar las operaciones directamente desde el navegador y observar las respuestas del servidor sin necesidad de clientes externos.
+
+### 🚀 Pasos para las pruebas
+
+1. Ejecuta el proyecto desde tu entorno (por ejemplo, IntelliJ o VS Code).  
+2. Abre tu navegador y entra a:  
+   👉 `http://localhost:8080/swagger-ui/index.html`  
+3. Explora las distintas rutas disponibles:  
+   - `/api/customers`  
+   - `/api/accounts`  
+   - `/api/transactions`  
+4. Selecciona una operación y haz clic en **“Try it out”**.  
+5. Ingresa los parámetros o el cuerpo en formato JSON.  
+6. Presiona **Execute** y observa la respuesta y el código de estado.
+
+---
+
+<p align="center">
+<!-- 📷 Espacios reservados para imágenes de pruebas en Swagger UI -->
+<img width="1919" height="1079" alt="Swagger Test 1" src="<!-- Pega aquí la URL de tu primera imagen -->" />
+
+<img width="1919" height="1079" alt="Swagger Test 2" src="<!-- Pega aquí la URL de tu segunda imagen -->" />
+
+<img width="1919" height="1079" alt="Swagger Test 3" src="<!-- Pega aquí la URL de tu tercera imagen -->" />
+</p>
+
+---
+
+<h2> 🧑‍💻 Autor <h2>
+
+**Desarrollado por:** *Samuel López*  
+**Licencia:** MIT  
+**Repositorio:** [GitHub – Logica_SP](https://github.com/SamuW66/Logica_SP)
+
 
 
 
