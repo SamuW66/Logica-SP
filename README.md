@@ -185,7 +185,7 @@ Gracias a esta interfaz, se pueden ejecutar las operaciones directamente desde e
 
 **Desarrollado por:** *Samuel López*  
 **Licencia:** MIT  
-**Repositorio:** [GitHub – Logica_SP](https://github.com/SamuW66/Logica_SP)
+**Repositorio:** [GitHub – Logica_SP](https://github.com/SamuW66/Logica-SP)
 
 
 
