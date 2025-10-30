@@ -75,11 +75,6 @@ Aunque las pruebas actuales son básicas, representan un punto de partida para a
 
 ---
 
-<h2> 👨‍💻 Autor <h2>
-Proyecto desarrollado por Samuel López como práctica universitaria de programación y lógica orientada a objetos con Java + Spring Boot.
-
----
-
 <h2>⚡ Thunder Client <h2>
 
 **Thunder Client** es una extensión integrada en **Visual Studio Code** que facilita la **prueba de endpoints de una API REST** sin necesidad de usar herramientas externas como Postman.  
